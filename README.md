@@ -119,63 +119,35 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh 
- gem install npm
-```
- -->
+**A web Browser
+A text editor
+Basic knowledge of HTML and CSS
+Git (optional)**
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+  **git clone https://github.com/peteronyam/Hello-Microverse-Project.git**
 
-```sh
-  cd my-folder
-  git clone git@github.com:peteronyam/Hello-Microverse-Project.git
-```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command: npm install npm
-
-```sh
-  cd Hello-Microverse-project
-  gem install
-```
---->
+  **npm install**
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
-```sh
-  Code editor(vscode)
-```
---->
+**npm start**
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```Sh
-    Click on the preview panel on vscode to see changes made
-```
---->
+  **npm test**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
